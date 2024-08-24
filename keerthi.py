@@ -10,8 +10,8 @@ Original file is located at
 import matplotlib.pyplot as plt
 from sklearn import linear_model
 
-height = [[4.0], [5.0], [6.0], [7.0], [8.0], [9.0], [10.0]]
-weight = [12, 15, 18, 21, 24, 27, 30]
+height = [[4.0], [5.0], [6.0], [7.0], [8.0], [9.0], [10.0], [11.0]]
+weight = [12, 15, 18, 21, 24, 27, 30, 33]
 
 plt.scatter(height, weight, color='black')
 plt.xlabel("height")
