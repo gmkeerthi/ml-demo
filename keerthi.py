@@ -9,8 +9,8 @@ Original file is located at
 
 import matplotlib
 import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
+# import numpy as np
+# import pandas as pd
 import sklearn
 from sklearn import linear_model
 height=[[4.0],[5.0],[6.0],[7.0],[8.0],[9.0],[10.0]]
